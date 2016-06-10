@@ -1,1 +1,18 @@
 Hey, I'm a text file!
+
+Today, I'm learning about version control with Git. Here are my notes:
+
+Ready - contains information about other files
+
+access to files is controlled - cannot make changes in another person’s repository
+“forking” - is Github’s name of making a copy
+
+clone - same as copy something that is online to your local machine
+—> good practice: when clone, could name “FileName_repo” on local machine
+
+file is either unchanged since last time GitHub took snapshot of things in repository, or file has been changed
+
+Uncommitted - could disappear
+Commitment is for life
+Once commit files, Git compares local files on hard drive to files Git has in version control
+usually want to add thematic types of changes, then commit all of those together
